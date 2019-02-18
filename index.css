@@ -1,0 +1,20 @@
+body{
+	  background-image: url(mountains_sunset_reflection_4k-1366x768.jpg);
+	  background-size: cover;	
+}
+h2{
+	color:black;
+	border: 1px dashed green;
+	width: 400px;
+	text-align: center;
+
+}
+ol{
+	color: #E5AE00;
+}
+li{
+	list-style: none;
+}
+a{
+	color: #46CACA;
+}
